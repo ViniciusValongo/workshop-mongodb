@@ -1,3 +1,4 @@
+
 package com.viniciusvalongo.workshopmongo.resources.exception;
 
 import javax.servlet.http.HttpServletRequest;
