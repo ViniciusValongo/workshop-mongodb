@@ -6,7 +6,6 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.viniciusvalongo.workshopmongo.DTO.AuthorDTO;
 import com.viniciusvalongo.workshopmongo.DTO.UserDTO;
 import com.viniciusvalongo.workshopmongo.domain.User;
 import com.viniciusvalongo.workshopmongo.repository.UserRepository;
@@ -52,7 +51,5 @@ public class UserService {
 	}
 	
 
-	
-	
 
 }
